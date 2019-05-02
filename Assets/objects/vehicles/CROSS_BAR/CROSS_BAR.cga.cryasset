@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="AnimatedMesh" guid="{12DAC005-3851-840A-7867-67C4B1882326}">
+  <Files>
+   <File path="CROSS_BAR.cga"/>
+  </Files>
+  <Details>
+   <Detail name="materialCount">5</Detail>
+   <Detail name="triangleCount">10286</Detail>
+   <Detail name="vertexCount">13961</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

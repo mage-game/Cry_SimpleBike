@@ -1,0 +1,15 @@
+{
+  "version": 0,
+  "type": "",
+  "info": {
+    "name": "VehiclePlugin"
+  },
+  "content": {
+    "code": [
+      "Code"
+    ]
+  },
+  "require": {
+    "engine": "engine-5.5"
+  }
+}

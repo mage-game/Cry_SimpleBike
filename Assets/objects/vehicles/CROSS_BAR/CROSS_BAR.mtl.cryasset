@@ -1,0 +1,12 @@
+<AssetMetadata version="0" type="Material" guid="b2b7394e-5a29-13a3-2049-1cea20ce556c">
+ <Files>
+  <File path="CROSS_BAR.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">4</Detail>
+  <Detail name="textureCount">1</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="3">Objects/Vehicles/CROSS_BAR/128.dds</Path>
+ </Dependencies>
+</AssetMetadata>
